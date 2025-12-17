@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jaagat-p.github.iopersonalweb/sitemap.xml
+Sitemap: https://jaagat-p.github.io/personalweb/sitemap.xml
